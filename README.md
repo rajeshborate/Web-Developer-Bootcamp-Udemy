@@ -5,3 +5,4 @@
 
 ### Refrences
 - Mozilla Developer Documentation : https://developer.mozilla.org/en-US/
+- HTML Standard : https://html.spec.whatwg.org/
