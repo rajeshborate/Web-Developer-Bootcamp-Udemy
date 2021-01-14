@@ -6,3 +6,5 @@
 ### Refrences
 - Mozilla Developer Documentation : https://developer.mozilla.org/en-US/
 - HTML Standard : https://html.spec.whatwg.org/
+- Easing function cheatsheet : https://easings.net/
+- Google fonts : https://fonts.google.com/
