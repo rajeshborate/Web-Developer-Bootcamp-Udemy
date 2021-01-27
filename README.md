@@ -8,3 +8,4 @@
 - HTML Standard : https://html.spec.whatwg.org/
 - Easing function cheatsheet : https://easings.net/
 - Google fonts : https://fonts.google.com/
+- Bootstrap : https://getbootstrap.com/
